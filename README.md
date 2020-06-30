@@ -120,7 +120,7 @@
 
       <br />
 
-    - For the expectations, we uses MCMC sampling for the according model.
+    - For the expectations, we use MCMC sampling for the according model.
 
  
 
